@@ -1,0 +1,9 @@
+# Zephyr
+/.west
+/bootloader
+/modules
+/tools
+/zephyr
+
+# CMake
+/build

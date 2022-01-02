@@ -1,0 +1,9 @@
+if BOARD_NRFDEMO
+
+config BOARD
+	default "nrfdemo"
+
+config BT_CTLR
+	default BT
+
+endif # nrfdemo

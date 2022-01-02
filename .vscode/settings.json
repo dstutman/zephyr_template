@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/app",
+    "cmake.configureArgs": [
+        "-DBOARD="
+//        "-DBOARD_ROOT=${workspaceFolder}/",
+    ],
+}
