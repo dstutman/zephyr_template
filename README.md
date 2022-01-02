@@ -7,3 +7,4 @@ This template sets up ZephyrRTOS for out of tree builds.
 3. Run `west update` in the repository
 4. Configure the `BOARD_ROOT` in `.vscode/settings.json`
 5. Configure the target `BOARD` in `.vscode/settings.json`
+6. Run `west build -p -b DESIREDBOARDNAME` in app/
